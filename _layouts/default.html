@@ -1,0 +1,41 @@
+﻿<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="{{site.description}}">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+    
+    <base href="{{ site.url }}/" /> 
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
+    <title>{{ page.title }} - {{site.root_desc}}</title>
+    <link rel="alternate" type="application/atom+xml" title="Feed del {{site.root_desc}}" href="{{site.url}}/index.xml" />
+    <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link rel="stylesheet" type="text/css" href="styles/inspired_by_bundler_inspired.css?version=4" />
+    <link href='http://fonts.googleapis.com/css?family=Faster+One' rel='stylesheet' type='text/css'>
+    <!--[if IE 6]>
+      <link rel="stylesheet" type="text/css" href="styles/ie6.css" />
+    <![endif]-->
+</head>
+{% if page.section %}<body class="{{ page.section }}">{% else %}<body>{% endif %}
+<header>
+<h2>Campeonato de España<br/><small>&</small><br/>Open Internacional de Ala Delta</h2>
+    <h1>Piedrahita 2013</h1>
+    <a href="{{ site.url }}/presentacion.html" title="Presentación del Open"><img class="logo" src="images/logo_piedrahita2013.png"/></a>
+    {% include nav.html %}
+</header>
+
+<div class="article">
+<article role="main">
+<section>
+{{ content }}
+</section>
+</article>
+</div>
+<footer>
+  {% include nav.html %}
+  <p>Sitio hecho con <a href="https://github.com/mojombo/jekyll" title="Para la gestión de sus contenidos">Jekyll</a>, <a href="http://rubyonrails.org/" title="Para guardar y servir las inscripciones">RubyOnRails</a>, <a href="http://jquery.com/" title="Para tratar con JavaScript">jQuery</a>, <a href="http://www.jstween.org" title="Para la animación sorpresa">Tween</a> y <a href="http://disqus.com/" title="Para los comentarios">Disqus</a></p>
+</footer>
+</body>
+</html>

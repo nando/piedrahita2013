@@ -1,0 +1,8 @@
+root_desc: Campeonato de España & Open Internacional de Ala Delta Piedrahita 2013
+description: Página del Campeonato de España de Ala Delta 2013 que se celebrará en Piedrahita (Ávila)
+server: true
+auto: true
+destination: _site/open
+url: http://piedrahita2013.com
+exclude: bin, fs_templates, tmp
+paginate: 4
