@@ -42,15 +42,19 @@ h2 a:hover{
   color:#011012;
   border-bottom: none
 }
-a img.logo {
+.gold img {
   border: 0;
+  margin-left: 32px;
 }
-img.logo {
-  position:fixed;
-  left:30px;
+div.gold {
+  position: fixed;
+  overflow: hidden;
+  left:0px;
   top:54px;
+  width: 242px;
   padding-bottom: 20px;
 }
+
 img.glider {
   position:fixed;
   left:-150px;
@@ -134,7 +138,7 @@ div.centered {
 }
 div.article {
   background:url("../images/section_bg.png");
-  background: rgba(255,255,255, .5);
+  background: rgba(255,255,255, .75);
   padding:10px 20px 30px 30px;
   margin-top:54px;
   border: solid 1px black;
@@ -457,7 +461,7 @@ div.clearer {
   height: 0;
 }
 article ul {
-  padding-left: 10px;
+  padding-left: 40px;
 }
 .total_points {
   font-weight: bold;
