@@ -4,10 +4,10 @@ title: Presentación
 section: presentacion
 ---
 
-<h2>Presentación <a href="presentation.html">Welcome</a></h2>
+<h2 class="welcome">¡Bienvenidos a Piedrahita 2013! <a href="presentation.html" title="Welcome! (english version)"><img src="images/english.png"/></a></h2>
 
 
-Bienvenidos a la web del **Campeonato de España y Open Internacional de Ala Delta Piedrahita 2013**.
+Bienvenidos a la web oficial del **Campeonato de España y Open Internacional de Ala Delta Piedrahita 2013**.
 
 <a class="media" target="_blank" href="http://www.flytietar.com/index.php/de/component/joomgallery/region/region-45" title="Despegue por Günter Porath"><img class="right" src="images/gunter_premio.jpg" alt="Despegue por Günter Porath"/></a>
 
