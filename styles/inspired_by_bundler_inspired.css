@@ -38,7 +38,7 @@ h2 a{
   color:#88A;
   font-weight:700;
 }
-h2 a:hover, .gold a:hover{
+h2 a:hover, .gold a:hover, .silver_sponsor a:hover, .sponsor_logos a:hover{
   color:#011012;
   border-bottom: none
 }
@@ -93,22 +93,45 @@ span#hg {
 footer p {
   margin: 0;
 }
-footer nav, span.pilot_id {
+footer nav, span.pilot_id, footer .silver_sponsor {
   display: none;
 }
-nav{
-  text-align: center;
+
+.whited_box {
   background:url("../images/section_bg.png");
   background: rgba(255,255,255, .5);
+  border: solid 1px black;
+}
+
+.very_whited_box {
+  background:url("../images/section_bg.png");
+  background: rgba(255,255,255, .75);
+  border: solid 1px black;
+}
+
+
+nav{
+  display: block;
+  text-align: center;
   font-family: 'Faster One', cursive;
   font-size: 1.1em;
   position:fixed;
   left:15px;
   top:292px;
   width:211px;
-  height:auto;
-  overflow:visible;
-  border: solid 1px black;
+}
+
+header div.silver_sponsor{
+  position:fixed;
+  padding-left: 5px;
+  padding-top: 6px;
+  left:15px;
+  top:2000px;
+  width:206px;
+}
+
+.sponsor_logos img {
+  margin: 16px;
 }
 nav ul{
   list-style:none;
@@ -137,11 +160,8 @@ div.centered {
   margin: 10px;
 }
 div.article {
-  background:url("../images/section_bg.png");
-  background: rgba(255,255,255, .75);
   padding:10px 20px 30px 30px;
   margin-top:54px;
-  border: solid 1px black;
 }
 #page-navigation {
   font-size: 80%;
@@ -606,19 +626,20 @@ px      68    160    252    344    436    528    620    712    */
       font-size:11px;
     }
   
-    footer nav {
+    footer nav, footer .silver_sponsor {
       display: block;
       font-size: 14px;
       text-align: left;
       position:static;
       left:auto;
       top:auto;
+      width:auto;
       padding-top:1px;
       padding-bottom:1px;
       margin-bottom:10px;
     }
     
-    header nav {
+    header nav, header .silver_sponsor {
       display: none;
     }
     
