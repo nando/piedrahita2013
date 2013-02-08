@@ -15,7 +15,6 @@
      var effect2 = 'sineIn';
    }
    var glider = $('<img class="glider" src="images/glider.png"/>');
-   $('body').append(glider);
    glider.tween({
      opacity: {
        start: 0,
@@ -30,8 +29,8 @@
         effect: effect1
      },
      top: {
-        start:90,
-        stop: 100,
+        start:220,
+        stop: 240,
         time: 0,
         duration: 9.9,
         effect: effect1
@@ -65,7 +64,7 @@
             effect: effect2
          },
          top: {
-            stop: 50,
+            stop: 220,
             time: 0.2,
             duration: 22,
             effect: effect2
@@ -85,6 +84,11 @@
        });
      }
    });
-   $.play();
+   /* esperamos a que termine la animación del sponsor */
+   window.setInterval(fly, 6000);
+   function fly() {
+     $('body').append(glider);
+     $.play();
+   }
   });
   </script>
