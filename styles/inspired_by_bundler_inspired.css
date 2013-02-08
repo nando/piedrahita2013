@@ -42,6 +42,9 @@ h2 a:hover, .gold a:hover, .silver_sponsor a:hover, .sponsor_logos a:hover{
   color:#011012;
   border-bottom: none
 }
+.gold {
+  display: none;
+}
 .gold img {
   border: 0;
   margin-left: 32px;

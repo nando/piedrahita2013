@@ -1,7 +1,18 @@
 <script src="javascript/jquery.min.js" type="text/javascript"></script>
 <script src="javascript/jcarousellite_1.0.1.js" type="text/javascript"></script>
 <script src="javascript/jstween.min.js" type="text/javascript"></script>
+<script src="javascript/jquery.cookie.js" type="text/javascript"></script>
 <script type="text/javascript">
+
+$.cookie.raw = true;
+if(($.cookie('iterator') === undefined) || $.cookie('iterator') == 0)
+  $.cookie('iterator', 1);
+else
+  $.cookie('iterator', 0);
+
+$(document).ready(function() {
+  $('.gold').show();
+  $('.silver_sponsor img').attr('src', 'images/silver_sponsor_'+$.cookie('iterator')+'.png');
   $(".gold .carousel").jCarouselLite({
       auto: 6000,
       speed: 1000
@@ -15,8 +26,9 @@
       top: {
         start: 2000,
         stop: 496,
-        duration: 4.0,
-        effect: 'expoOut'
+        duration: 3.0,
+        effect: 'easeOut'
       }
   }).play();
+});
 </script>
