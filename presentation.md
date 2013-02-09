@@ -28,7 +28,7 @@ Welcome to the official website of the **Spanish National Championship and Inter
 
 Places are limited to 120 pilots.
 
-The registration fee is 120&euro; for pilots registered and paid prior to 15 June 2012 and for pilots who register after this date the price is 130&euro;.
+The registration fee is {{site.nice_price}}&euro; for pilots registered and paid prior to {{site.nice_limit_en}} and for pilots who register after this date the price is {{site.last_price}}&euro;.
 
 Registration includes:
 

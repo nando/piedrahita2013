@@ -28,7 +28,7 @@ Bienvenidos a la web oficial del **Campeonato de España y Open Internacional de
 
 Las plazas estarán limitadas a 120 pilotos.
 
-El precio de la inscripción será de 120€ por participante siempre que se haga la inscripción antes del 15 de Junio del 2013, después el coste será de 130€.
+El precio de la inscripción será de {{site.nice_price}}€ por participante siempre que se haga la inscripción antes del {{site.nice_limit_es}}, después el coste será de {{site.last_price}}€.
 
 La inscripción incluye:
 
