@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+     creator="GpsDump 4.66"
+     version="1.1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.gethome.no/stein.sorensen/">
+      <text>GPS dump for www.flightlog.org</text>
+    </link>
+    <time>2013-02-12T19:25:02Z</time>
+    <bounds minlat="39.881558" minlon="-6.090214" maxlat="41.819983" maxlon="-2.467319"/>
+  </metadata>
+  <wpt lat="40.477200" lon="-5.238900">
+    <ele>1620.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P01162</name>
+    <cmt>CORRALES LADERA</cmt>
+    <desc>CORRALES LADERA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.462617" lon="-5.409633">
+    <ele>1070.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P02107</name>
+    <cmt>HOYORREDONDO</cmt>
+    <desc>HOYORREDONDO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.049833" lon="-6.050633">
+    <ele>350.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P03035</name>
+    <cmt>PLASENCIA</cmt>
+    <desc>PLASENCIA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.459333" lon="-5.352900">
+    <ele>1400.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P04140</name>
+    <cmt>CERRO DE LA CRUZ</cmt>
+    <desc>CERRO DE LA CRUZ</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.394450" lon="-5.439000">
+    <ele>1050.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P05105</name>
+    <cmt>GASOLINERA ST MA-CABALLEROS</cmt>
+    <desc>GASOLINERA ST MA-CABALLEROS</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.451000" lon="-5.096000">
+    <ele>1470.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P06147</name>
+    <cmt>GARGANTA VILLAR CEMETERIO</cmt>
+    <desc>GARGANTA VILLAR CEMETERIO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.548417" lon="-5.164017">
+    <ele>1510.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P07151</name>
+    <cmt>VILLATORO ANTENA</cmt>
+    <desc>VILLATORO ANTENA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.530983" lon="-5.264433">
+    <ele>1110.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P08111</name>
+    <cmt>BONILLA IGLESIA</cmt>
+    <desc>BONILLA IGLESIA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.561867" lon="-5.258883">
+    <ele>1270.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P09127</name>
+    <cmt>TORTOLES IGLESIA</cmt>
+    <desc>TORTOLES IGLESIA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="41.007064" lon="-3.999261">
+    <ele>1190.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P10119</name>
+    <cmt>TORRECABALLEROS ANTENA</cmt>
+    <desc>TORRECABALLEROS ANTENA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="41.108336" lon="-3.718164">
+    <ele>1170.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P11117</name>
+    <cmt>GOL ARCONES</cmt>
+    <desc>GOL ARCONES</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="41.070000" lon="-4.406639">
+    <ele>900.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P12090</name>
+    <cmt>STA MA REAL NIEVA</cmt>
+    <desc>STA MA REAL NIEVA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.800000" lon="-5.086000">
+    <ele>935.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P13093</name>
+    <cmt>SAN PEDRO DEL ARROYO</cmt>
+    <desc>SAN PEDRO DEL ARROYO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.605283" lon="-4.790542">
+    <ele>1080.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P14108</name>
+    <cmt>GOL AVILAELFRESNO</cmt>
+    <desc>GOL AVILAELFRESNO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.501900" lon="-5.267283">
+    <ele>1040.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P15104</name>
+    <cmt>LAVADERO</cmt>
+    <desc>LAVADERO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.255475" lon="-4.906203">
+    <ele>1125.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P16112</name>
+    <cmt>PEDRO BERNARDO DESP</cmt>
+    <desc>PEDRO BERNARDO DESP</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.483200" lon="-5.319833">
+    <ele>1015.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P17101</name>
+    <cmt>GOL PIEDRAHITA ESCOMBRERA</cmt>
+    <desc>GOL PIEDRAHITA ESCOMBRERA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.572000" lon="-5.064000">
+    <ele>1100.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P18110</name>
+    <cmt>AMAVIDA</cmt>
+    <desc>AMAVIDA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.437217" lon="-5.470833">
+    <ele>1010.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P19101</name>
+    <cmt>LA HORCAJADA</cmt>
+    <desc>LA HORCAJADA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.386383" lon="-5.592217">
+    <ele>1330.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P20133</name>
+    <cmt>SIERRA BARCO</cmt>
+    <desc>SIERRA BARCO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.398883" lon="-5.485283">
+    <ele>1270.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P21127</name>
+    <cmt>COLLADO-BARCO</cmt>
+    <desc>COLLADO-BARCO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.319500" lon="-5.548800">
+    <ele>1330.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P22133</name>
+    <cmt>BARCO ANTENA</cmt>
+    <desc>BARCO ANTENA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.433533" lon="-5.359383">
+    <ele>1210.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P23121</name>
+    <cmt>SANTIAGO</cmt>
+    <desc>SANTIAGO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.335250" lon="-5.729300">
+    <ele>2000.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P24200</name>
+    <cmt>DESPEGUE CANDELARIO</cmt>
+    <desc>DESPEGUE CANDELARIO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="41.819983" lon="-2.467319">
+    <ele>1019.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P25101</name>
+    <cmt>GOL SORIA AERODROMO</cmt>
+    <desc>GOL SORIA AERODROMO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.578583" lon="-5.375450">
+    <ele>1159.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P26115</name>
+    <cmt>AREVALILLO CRUCE</cmt>
+    <desc>AREVALILLO CRUCE</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.421600" lon="-5.300900">
+    <ele>1900.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P27190</name>
+    <cmt>DESPEGUE PENA NEGRA</cmt>
+    <desc>DESPEGUE PENA NEGRA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.580700" lon="-5.013750">
+    <ele>1170.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P28117</name>
+    <cmt>MUNANA GASOLINERA</cmt>
+    <desc>MUNANA GASOLINERA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.270600" lon="-5.662683">
+    <ele>1300.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P29130</name>
+    <cmt>PTO TORNAVACAS ANTENA</cmt>
+    <desc>PTO TORNAVACAS ANTENA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.644867" lon="-5.411083">
+    <ele>1010.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P30101</name>
+    <cmt>HORCAJO MEDIANERO GASOLINERA</cmt>
+    <desc>HORCAJO MEDIANERO GASOLINERA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.501083" lon="-4.999167">
+    <ele>1310.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P31131</name>
+    <cmt>MENGAMUNOZ</cmt>
+    <desc>MENGAMUNOZ</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.352400" lon="-5.749500">
+    <ele>1320.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P32132</name>
+    <cmt>CANDELARIO FABRICA JAMONES</cmt>
+    <desc>CANDELARIO FABRICA JAMONES</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.605633" lon="-4.891183">
+    <ele>1140.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P33114</name>
+    <cmt>MUNOGALINDO</cmt>
+    <desc>MUNOGALINDO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.528917" lon="-5.204233">
+    <ele>1180.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P34118</name>
+    <cmt>CEMETERIO CASAS DEL PUERTO</cmt>
+    <desc>CEMETERIO CASAS DEL PUERTO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.536133" lon="-4.837650">
+    <ele>1300.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P35130</name>
+    <cmt>SOTALVO CASTILLO</cmt>
+    <desc>SOTALVO CASTILLO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.432100" lon="-5.316583">
+    <ele>1700.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P36170</name>
+    <cmt>CHALET EN LADERA</cmt>
+    <desc>CHALET EN LADERA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.489500" lon="-5.521500">
+    <ele>927.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P37092</name>
+    <cmt>PUENTE CONGOSTO</cmt>
+    <desc>PUENTE CONGOSTO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="41.280428" lon="-3.477669">
+    <ele>1196.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P38119</name>
+    <cmt>RIAZA</cmt>
+    <desc>RIAZA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.465900" lon="-5.318000">
+    <ele>1060.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P39106</name>
+    <cmt>PIEDRAHITA PLAZA TOROS</cmt>
+    <desc>PIEDRAHITA PLAZA TOROS</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.894947" lon="-4.609217">
+    <ele>940.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P40094</name>
+    <cmt>GOL SANCHIDRIAN</cmt>
+    <desc>GOL SANCHIDRIAN</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.354933" lon="-5.113797">
+    <ele>1580.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P41158</name>
+    <cmt>PARADOR GREDOS</cmt>
+    <desc>PARADOR GREDOS</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.475500" lon="-5.479783">
+    <ele>1016.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P42101</name>
+    <cmt>NAVAMORALES</cmt>
+    <desc>NAVAMORALES</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.807161" lon="-4.636397">
+    <ele>920.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P43092</name>
+    <cmt>SANTO DOMINGO</cmt>
+    <desc>SANTO DOMINGO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.941778" lon="-4.130400">
+    <ele>1020.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P44102</name>
+    <cmt>SEGOVIA HOSPITAL</cmt>
+    <desc>SEGOVIA HOSPITAL</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.857617" lon="-4.246983">
+    <ele>1020.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P45102</name>
+    <cmt>FUENTEMILANOS</cmt>
+    <desc>FUENTEMILANOS</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.882831" lon="-4.473819">
+    <ele>1020.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P46102</name>
+    <cmt>MUNOPEDRO</cmt>
+    <desc>MUNOPEDRO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.821200" lon="-5.515200">
+    <ele>830.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P47083</name>
+    <cmt>ALBA TORMES PISCINA</cmt>
+    <desc>ALBA TORMES PISCINA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.358472" lon="-5.519814">
+    <ele>1030.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P48103</name>
+    <cmt>BARCO AVILA PLAZ TOROS</cmt>
+    <desc>BARCO AVILA PLAZ TOROS</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="41.298072" lon="-3.750325">
+    <ele>1040.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P49104</name>
+    <cmt>SEPULVEDAIGLESIA</cmt>
+    <desc>SEPULVEDAIGLESIA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.344003" lon="-5.434678">
+    <ele>1580.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P50158</name>
+    <cmt>LASTRA DEL CANO DESP</cmt>
+    <desc>LASTRA DEL CANO DESP</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.539889" lon="-5.447236">
+    <ele>1120.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P51112</name>
+    <cmt>GALLEGOS SOLM NAVE NE</cmt>
+    <desc>GALLEGOS SOLM NAVE NE</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.781506" lon="-4.412350">
+    <ele>1100.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P52110</name>
+    <cmt>VILLACASTIN IGLESIA</cmt>
+    <desc>VILLACASTIN IGLESIA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="41.493711" lon="-2.549036">
+    <ele>960.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P53096</name>
+    <cmt>GOL ALMAZAN</cmt>
+    <desc>GOL ALMAZAN</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="41.294564" lon="-4.910406">
+    <ele>730.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P54073</name>
+    <cmt>MEDINA CAMPO HOSP-S</cmt>
+    <desc>MEDINA CAMPO HOSP-S</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.503069" lon="-5.397706">
+    <ele>1025.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P55073</name>
+    <cmt>STA M BERROCAL NAVE-S</cmt>
+    <desc>STA M BERROCAL NAVE-S</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.657122" lon="-4.721300">
+    <ele>1128.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P56112</name>
+    <cmt>AVILA ANTENA</cmt>
+    <desc>AVILA ANTENA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.908753" lon="-5.590192">
+    <ele>845.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P57084</name>
+    <cmt>CALVARRASA D ARRIBA</cmt>
+    <desc>CALVARRASA D ARRIBA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.742367" lon="-4.472589">
+    <ele>1210.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P58121</name>
+    <cmt>ALDEAVIEJA IGLESIA</cmt>
+    <desc>ALDEAVIEJA IGLESIA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="41.069500" lon="-4.720303">
+    <ele>817.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P59081</name>
+    <cmt>AREVAL0 CASTILLO</cmt>
+    <desc>AREVAL0 CASTILLO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="41.400875" lon="-4.318278">
+    <ele>879.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P60087</name>
+    <cmt>CUELLAR IGLESIA</cmt>
+    <desc>CUELLAR IGLESIA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.361131" lon="-5.240558">
+    <ele>1460.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P61146</name>
+    <cmt>NAVACEPEDA NAVE AL E</cmt>
+    <desc>NAVACEPEDA NAVE AL E</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.901328" lon="-5.207650">
+    <ele>898.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P62089</name>
+    <cmt>PENARANDA DE BRACAMONTE</cmt>
+    <desc>PENARANDA DE BRACAMONTE</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.897508" lon="-4.004378">
+    <ele>1201.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P63120</name>
+    <cmt>LA GRANJA PALACIO</cmt>
+    <desc>LA GRANJA PALACIO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="41.087097" lon="-4.998378">
+    <ele>800.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P64080</name>
+    <cmt>MADRIGAL ALTAS TORRES</cmt>
+    <desc>MADRIGAL ALTAS TORRES</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.654956" lon="-6.090214">
+    <ele>891.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P65089</name>
+    <cmt>TAMAMES</cmt>
+    <desc>TAMAMES</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.545761" lon="-4.989586">
+    <ele>1138.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P66113</name>
+    <cmt>NARROS DEL PUERTO</cmt>
+    <desc>NARROS DEL PUERTO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.739000" lon="-5.012000">
+    <ele>1253.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P67125</name>
+    <cmt>SOLANA DE RIOALMAR</cmt>
+    <desc>SOLANA DE RIOALMAR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.710000" lon="-4.899000">
+    <ele>1234.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P68123</name>
+    <cmt>GALLEGOS</cmt>
+    <desc>GALLEGOS</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.551847" lon="-4.908906">
+    <ele>1121.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P69112</name>
+    <cmt>SOLOSANCHO</cmt>
+    <desc>SOLOSANCHO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.546131" lon="-5.669153">
+    <ele>977.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P70097</name>
+    <cmt>GUIJUELO</cmt>
+    <desc>GUIJUELO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.454700" lon="-5.175856">
+    <ele>1800.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P71180</name>
+    <cmt>PUERTO DE CHIA</cmt>
+    <desc>PUERTO DE CHIA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.537722" lon="-5.326000">
+    <ele>1062.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P72106</name>
+    <cmt>BECEDILLAS</cmt>
+    <desc>BECEDILLAS</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.634619" lon="-4.973000">
+    <ele>1385.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P73138</name>
+    <cmt>BALBARDA</cmt>
+    <desc>BALBARDA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="39.881558" lon="-4.978456">
+    <ele>394.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P74039</name>
+    <cmt>CALERA Y CHOZAS</cmt>
+    <desc>CALERA Y CHOZAS</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.078258" lon="-4.380189">
+    <ele>490.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P75049</name>
+    <cmt>MAQUEDA GASOLINERA</cmt>
+    <desc>MAQUEDA GASOLINERA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="39.960261" lon="-4.200019">
+    <ele>500.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P76050</name>
+    <cmt>RIELVES</cmt>
+    <desc>RIELVES</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.229333" lon="-4.751533">
+    <ele>515.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P77051</name>
+    <cmt>LA IGLESUELA</cmt>
+    <desc>LA IGLESUELA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.364722" lon="-4.624167">
+    <ele>1955.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P78195</name>
+    <cmt>LA ESCUSA</cmt>
+    <desc>LA ESCUSA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.067267" lon="-5.358475">
+    <ele>288.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P79028</name>
+    <cmt>ROSARITO</cmt>
+    <desc>ROSARITO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.154736" lon="-4.743075">
+    <ele>1320.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P80132</name>
+    <cmt>PIELAGO</cmt>
+    <desc>PIELAGO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="40.312917" lon="-4.885250">
+    <ele>2175.0</ele>
+    <time>2013-02-12T19:21:56</time>
+    <name>P81217</name>
+    <cmt>EL CABEZO</cmt>
+    <desc>EL CABEZO</desc>
+    <sym>Dot</sym>
+  </wpt>
+</gpx>

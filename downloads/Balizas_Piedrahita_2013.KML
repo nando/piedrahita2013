@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <Folder>
+      <name>Waypoints</name>
+      <Placemark>
+        <name>P01162</name>
+        <description>CORRALES LADERA</description>
+        <Point>
+        <coordinates>-5.238900,40.477200,1620.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P02107</name>
+        <description>HOYORREDONDO</description>
+        <Point>
+        <coordinates>-5.409633,40.462617,1070.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P03035</name>
+        <description>PLASENCIA</description>
+        <Point>
+        <coordinates>-6.050633,40.049833,350.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P04140</name>
+        <description>CERRO DE LA CRUZ</description>
+        <Point>
+        <coordinates>-5.352900,40.459333,1400.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P05105</name>
+        <description>GASOLINERA ST MA-CABALLEROS</description>
+        <Point>
+        <coordinates>-5.439000,40.394450,1050.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P06147</name>
+        <description>GARGANTA VILLAR CEMETERIO</description>
+        <Point>
+        <coordinates>-5.096000,40.451000,1470.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P07151</name>
+        <description>VILLATORO ANTENA</description>
+        <Point>
+        <coordinates>-5.164017,40.548417,1510.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P08111</name>
+        <description>BONILLA IGLESIA</description>
+        <Point>
+        <coordinates>-5.264433,40.530983,1110.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P09127</name>
+        <description>TORTOLES IGLESIA</description>
+        <Point>
+        <coordinates>-5.258883,40.561867,1270.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P10119</name>
+        <description>TORRECABALLEROS ANTENA</description>
+        <Point>
+        <coordinates>-3.999261,41.007064,1190.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P11117</name>
+        <description>GOL ARCONES</description>
+        <Point>
+        <coordinates>-3.718164,41.108336,1170.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P12090</name>
+        <description>STA MA REAL NIEVA</description>
+        <Point>
+        <coordinates>-4.406639,41.070000,900.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P13093</name>
+        <description>SAN PEDRO DEL ARROYO</description>
+        <Point>
+        <coordinates>-5.086000,40.800000,935.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P14108</name>
+        <description>GOL AVILAELFRESNO</description>
+        <Point>
+        <coordinates>-4.790542,40.605283,1080.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P15104</name>
+        <description>LAVADERO</description>
+        <Point>
+        <coordinates>-5.267283,40.501900,1040.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P16112</name>
+        <description>PEDRO BERNARDO DESP</description>
+        <Point>
+        <coordinates>-4.906203,40.255475,1125.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P17101</name>
+        <description>GOL PIEDRAHITA ESCOMBRERA</description>
+        <Point>
+        <coordinates>-5.319833,40.483200,1015.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P18110</name>
+        <description>AMAVIDA</description>
+        <Point>
+        <coordinates>-5.064000,40.572000,1100.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P19101</name>
+        <description>LA HORCAJADA</description>
+        <Point>
+        <coordinates>-5.470833,40.437217,1010.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P20133</name>
+        <description>SIERRA BARCO</description>
+        <Point>
+        <coordinates>-5.592217,40.386383,1330.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P21127</name>
+        <description>COLLADO-BARCO</description>
+        <Point>
+        <coordinates>-5.485283,40.398883,1270.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P22133</name>
+        <description>BARCO ANTENA</description>
+        <Point>
+        <coordinates>-5.548800,40.319500,1330.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P23121</name>
+        <description>SANTIAGO</description>
+        <Point>
+        <coordinates>-5.359383,40.433533,1210.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P24200</name>
+        <description>DESPEGUE CANDELARIO</description>
+        <Point>
+        <coordinates>-5.729300,40.335250,2000.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P25101</name>
+        <description>GOL SORIA AERODROMO</description>
+        <Point>
+        <coordinates>-2.467319,41.819983,1019.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P26115</name>
+        <description>AREVALILLO CRUCE</description>
+        <Point>
+        <coordinates>-5.375450,40.578583,1159.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P27190</name>
+        <description>DESPEGUE PENA NEGRA</description>
+        <Point>
+        <coordinates>-5.300900,40.421600,1900.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P28117</name>
+        <description>MUNANA GASOLINERA</description>
+        <Point>
+        <coordinates>-5.013750,40.580700,1170.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P29130</name>
+        <description>PTO TORNAVACAS ANTENA</description>
+        <Point>
+        <coordinates>-5.662683,40.270600,1300.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P30101</name>
+        <description>HORCAJO MEDIANERO GASOLINERA</description>
+        <Point>
+        <coordinates>-5.411083,40.644867,1010.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P31131</name>
+        <description>MENGAMUNOZ</description>
+        <Point>
+        <coordinates>-4.999167,40.501083,1310.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P32132</name>
+        <description>CANDELARIO FABRICA JAMONES</description>
+        <Point>
+        <coordinates>-5.749500,40.352400,1320.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P33114</name>
+        <description>MUNOGALINDO</description>
+        <Point>
+        <coordinates>-4.891183,40.605633,1140.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P34118</name>
+        <description>CEMETERIO CASAS DEL PUERTO</description>
+        <Point>
+        <coordinates>-5.204233,40.528917,1180.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P35130</name>
+        <description>SOTALVO CASTILLO</description>
+        <Point>
+        <coordinates>-4.837650,40.536133,1300.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P36170</name>
+        <description>CHALET EN LADERA</description>
+        <Point>
+        <coordinates>-5.316583,40.432100,1700.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P37092</name>
+        <description>PUENTE CONGOSTO</description>
+        <Point>
+        <coordinates>-5.521500,40.489500,927.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P38119</name>
+        <description>RIAZA</description>
+        <Point>
+        <coordinates>-3.477669,41.280428,1196.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P39106</name>
+        <description>PIEDRAHITA PLAZA TOROS</description>
+        <Point>
+        <coordinates>-5.318000,40.465900,1060.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P40094</name>
+        <description>GOL SANCHIDRIAN</description>
+        <Point>
+        <coordinates>-4.609217,40.894947,940.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P41158</name>
+        <description>PARADOR GREDOS</description>
+        <Point>
+        <coordinates>-5.113797,40.354933,1580.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P42101</name>
+        <description>NAVAMORALES</description>
+        <Point>
+        <coordinates>-5.479783,40.475500,1016.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P43092</name>
+        <description>SANTO DOMINGO</description>
+        <Point>
+        <coordinates>-4.636397,40.807161,920.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P44102</name>
+        <description>SEGOVIA HOSPITAL</description>
+        <Point>
+        <coordinates>-4.130400,40.941778,1020.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P45102</name>
+        <description>FUENTEMILANOS</description>
+        <Point>
+        <coordinates>-4.246983,40.857617,1020.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P46102</name>
+        <description>MUNOPEDRO</description>
+        <Point>
+        <coordinates>-4.473819,40.882831,1020.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P47083</name>
+        <description>ALBA TORMES PISCINA</description>
+        <Point>
+        <coordinates>-5.515200,40.821200,830.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P48103</name>
+        <description>BARCO AVILA PLAZ TOROS</description>
+        <Point>
+        <coordinates>-5.519814,40.358472,1030.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P49104</name>
+        <description>SEPULVEDAIGLESIA</description>
+        <Point>
+        <coordinates>-3.750325,41.298072,1040.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P50158</name>
+        <description>LASTRA DEL CANO DESP</description>
+        <Point>
+        <coordinates>-5.434678,40.344003,1580.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P51112</name>
+        <description>GALLEGOS SOLM NAVE NE</description>
+        <Point>
+        <coordinates>-5.447236,40.539889,1120.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P52110</name>
+        <description>VILLACASTIN IGLESIA</description>
+        <Point>
+        <coordinates>-4.412350,40.781506,1100.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P53096</name>
+        <description>GOL ALMAZAN</description>
+        <Point>
+        <coordinates>-2.549036,41.493711,960.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P54073</name>
+        <description>MEDINA CAMPO HOSP-S</description>
+        <Point>
+        <coordinates>-4.910406,41.294564,730.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P55073</name>
+        <description>STA M BERROCAL NAVE-S</description>
+        <Point>
+        <coordinates>-5.397706,40.503069,1025.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P56112</name>
+        <description>AVILA ANTENA</description>
+        <Point>
+        <coordinates>-4.721300,40.657122,1128.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P57084</name>
+        <description>CALVARRASA D ARRIBA</description>
+        <Point>
+        <coordinates>-5.590192,40.908753,845.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P58121</name>
+        <description>ALDEAVIEJA IGLESIA</description>
+        <Point>
+        <coordinates>-4.472589,40.742367,1210.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P59081</name>
+        <description>AREVAL0 CASTILLO</description>
+        <Point>
+        <coordinates>-4.720303,41.069500,817.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P60087</name>
+        <description>CUELLAR IGLESIA</description>
+        <Point>
+        <coordinates>-4.318278,41.400875,879.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P61146</name>
+        <description>NAVACEPEDA NAVE AL E</description>
+        <Point>
+        <coordinates>-5.240558,40.361131,1460.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P62089</name>
+        <description>PENARANDA DE BRACAMONTE</description>
+        <Point>
+        <coordinates>-5.207650,40.901328,898.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P63120</name>
+        <description>LA GRANJA PALACIO</description>
+        <Point>
+        <coordinates>-4.004378,40.897508,1201.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P64080</name>
+        <description>MADRIGAL ALTAS TORRES</description>
+        <Point>
+        <coordinates>-4.998378,41.087097,800.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P65089</name>
+        <description>TAMAMES</description>
+        <Point>
+        <coordinates>-6.090214,40.654956,891.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P66113</name>
+        <description>NARROS DEL PUERTO</description>
+        <Point>
+        <coordinates>-4.989586,40.545761,1138.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P67125</name>
+        <description>SOLANA DE RIOALMAR</description>
+        <Point>
+        <coordinates>-5.012000,40.739000,1253.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P68123</name>
+        <description>GALLEGOS</description>
+        <Point>
+        <coordinates>-4.899000,40.710000,1234.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P69112</name>
+        <description>SOLOSANCHO</description>
+        <Point>
+        <coordinates>-4.908906,40.551847,1121.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P70097</name>
+        <description>GUIJUELO</description>
+        <Point>
+        <coordinates>-5.669153,40.546131,977.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P71180</name>
+        <description>PUERTO DE CHIA</description>
+        <Point>
+        <coordinates>-5.175856,40.454700,1800.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P72106</name>
+        <description>BECEDILLAS</description>
+        <Point>
+        <coordinates>-5.326000,40.537722,1062.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P73138</name>
+        <description>BALBARDA</description>
+        <Point>
+        <coordinates>-4.973000,40.634619,1385.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P74039</name>
+        <description>CALERA Y CHOZAS</description>
+        <Point>
+        <coordinates>-4.978456,39.881558,394.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P75049</name>
+        <description>MAQUEDA GASOLINERA</description>
+        <Point>
+        <coordinates>-4.380189,40.078258,490.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P76050</name>
+        <description>RIELVES</description>
+        <Point>
+        <coordinates>-4.200019,39.960261,500.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P77051</name>
+        <description>LA IGLESUELA</description>
+        <Point>
+        <coordinates>-4.751533,40.229333,515.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P78195</name>
+        <description>LA ESCUSA</description>
+        <Point>
+        <coordinates>-4.624167,40.364722,1955.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P79028</name>
+        <description>ROSARITO</description>
+        <Point>
+        <coordinates>-5.358475,40.067267,288.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P80132</name>
+        <description>PIELAGO</description>
+        <Point>
+        <coordinates>-4.743075,40.154736,1320.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P81217</name>
+        <description>EL CABEZO</description>
+        <Point>
+        <coordinates>-4.885250,40.312917,2175.000000</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
