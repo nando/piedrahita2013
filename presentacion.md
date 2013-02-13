@@ -9,7 +9,7 @@ section: presentacion
 
 Bienvenidos a la web oficial del **Campeonato de España y Open Internacional de Ala Delta Piedrahita 2013**.
 
-<a class="media" target="_blank" href="http://www.flytietar.com/index.php/de/component/joomgallery/region/region-45" title="Despegue por Günter Porath"><img class="right" src="images/gunter_premio.jpg" alt="Despegue por Günter Porath"/></a>
+<a class="media" target="_blank" href="http://www.flytietar.com/index.php/de/component/joomgallery/region/region-45" title="Girando sobre el despegue (Günter Porath)"><img class="right" src="images/gunter_premio.jpg" alt="Despegue por Günter Porath"/></a>
 
 **Evento:** Campeonato de España Ala Delta: Categoria 2 FAI acogerá las clases flexibles, rigidas y sport
 
@@ -26,7 +26,7 @@ Bienvenidos a la web oficial del **Campeonato de España y Open Internacional de
 * **Del 19 al 27**: Dias de competición
 * **Sábado 27 21:00h**: Ceremonia de clausura, entrega de trofeos, sorteos y fiesta de despedida
 
-Las plazas estarán limitadas a 120 pilotos.
+Las plazas estarán limitadas a {{site.pilots_limit}} pilotos.
 
 El precio de la inscripción será de {{site.nice_price}}€ por participante siempre que se haga la inscripción antes del {{site.nice_limit_es}}, después el coste será de {{site.last_price}}€.
 

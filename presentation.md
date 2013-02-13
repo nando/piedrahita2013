@@ -9,7 +9,7 @@ section: presentacion
 
 Welcome to the official website of the **Spanish National Championship and International Hang Gliding Open Piedrahita 2013**.
 
-<a class="media" target="_blank" href="https://plus.google.com/photos/102973229036192373723/albums/5672390763094481009/5672391020931582690?banner=pwa" title="Flying over Piedrahita (Günter Porath)"><img class="right" src="images/gunter_carlos_sobre_piedrahita.jpg" alt="Flying over Piedrahita (Günter Porath)"/></a>
+<a class="media" target="_blank" href="http://tinyurl.com/d8kmhnk" title="Despegue bajo alas, por Pepe (Escuela de Ala Delta Icaro 10)"><img class="right" src="images/en_el_despegue_bajo_alas.jpg" alt="Launching. Author Pepe (Ala Delta Icaro 10)"/></a>
 
 **Event:** Spanish National Championship and International Hang Gliding Open: Category 2 FAI Open to flexwing, rigid and sports classes.
 
@@ -17,7 +17,7 @@ Welcome to the official website of the **Spanish National Championship and Inter
 
 **Location:** Piedrahita, Ávila, España
 
-**GPS Coordinates:** 40°27′46″ Norte, 5°19′40″ Oeste
+**GPS Coordinates:** 40°27′46″ North, 5°19′40″ West
 
 **Programme:**
 
@@ -26,7 +26,7 @@ Welcome to the official website of the **Spanish National Championship and Inter
 * **Del 19 al 27**: Competition days
 * **Saturday 27 21:00h**: Closing ceremony, prize giving, raffle and party.
 
-Places are limited to 120 pilots.
+Places are limited to {{site.pilots_limit}} pilots.
 
 The registration fee is {{site.nice_price}}&euro; for pilots registered and paid prior to {{site.nice_limit_en}} and for pilots who register after this date the price is {{site.last_price}}&euro;.
 
