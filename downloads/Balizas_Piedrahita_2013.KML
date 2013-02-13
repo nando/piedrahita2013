@@ -2,7 +2,7 @@
 <kml xmlns="http://earth.google.com/kml/2.1">
   <Document>
     <name>Balizas del Campeonato de España &amp; Open FAI de Ala Delta Piedrahita 2013</name>
-    <Snippet>Created Wed Feb 8 12:08:16 2012</Snippet>
+    <Snippet>Created Wed Feb 12 21:08:16 2013</Snippet>
     <Style id="waypoint_b">
       <IconStyle>
         <Icon>
@@ -675,5 +675,10 @@
         </Point>
       </Placemark>
     </Folder>
+    <LookAt>
+      <longitude>-4.4038194</longitude>
+      <latitude>40.7228305</latitude>
+      <range>164065.665637</range>
+    </LookAt>
   </Document>
 </kml>
