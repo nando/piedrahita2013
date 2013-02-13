@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.1">
   <Document>
-    <name>Balizas del Campeonato de España & Open FAI de Ala Delta Piedrahita 2013</name>
+    <name>Balizas del Campeonato de España &amp; Open FAI de Ala Delta Piedrahita 2013</name>
     <Snippet>Created Wed Feb 8 12:08:16 2012</Snippet>
     <Style id="waypoint_b">
       <IconStyle>
@@ -17,7 +17,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="waypoint_a">
+    <Style id="waypoint_d">
       <IconStyle>
         <Icon>
           <href>http://primer.opendepb.com/images/hanggliding-takeoff.png</href>
