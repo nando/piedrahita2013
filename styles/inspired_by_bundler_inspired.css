@@ -290,6 +290,9 @@ form#new_pilot fieldset input, form#new_pilot fieldset select {
   border:1px solid #666;
   font-size:14px;
 }
+form#new_pilot fieldset div select.small { width: 58px; }
+form#new_pilot fieldset div select.big { width: 170px; }
+form#new_pilot fieldset div select.medium { width: 80px; }
 
 form#new_pilot fieldset input {
   padding:6px 0;
@@ -297,7 +300,9 @@ form#new_pilot fieldset input {
 }
 
 form#new_pilot fieldset select {
-
+  padding:3px;
+  font-size:1.1em;
+  height:30px;
 }
 
 form#new_pilot fieldset div.field label.error {
