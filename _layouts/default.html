@@ -21,9 +21,12 @@
 {% if page.section %}<body class="{{ page.section }}">{% else %}<body>{% endif %}
     {% include logo_and_golds.html %}
 <header>
-<h2>Campeonato de España<br/><small>&</small><br/>Open Internacional de Ala Delta</h2>
+    <h2>Campeonato de España<br/><small>&</small><br/>Open Internacional de Ala Delta</h2>
     <h1>Piedrahita 2013</h1>
     {% include nav.html %}
+    <div class="twitter_widget">
+      {% include twitter_widget.html %} 
+    </div>
 </header>
 
 {% include javascripts.html %}
