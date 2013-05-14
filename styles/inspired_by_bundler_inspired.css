@@ -185,6 +185,14 @@ nav li.active {
   background:url("../images/section_bg.png");
   background: rgba(255,255,255, .5);
 }
+nav li.facebook, nav li.twitter {
+  padding-top: 5px;
+}
+nav li.facebook a, nav li.twitter a{
+  padding:0px 19px 0 18px;
+  line-height:0.6em;
+  text-align: center;
+}
 nav li.active a {
   font-size: 1.3em;
 }
