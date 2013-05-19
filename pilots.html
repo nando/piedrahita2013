@@ -83,12 +83,12 @@
         $.each(brands, function(brand, count) {
             tstats.append('<tr class="brand_total '+brand+'"><td><span>&nbsp;</span>'+brand+": <strong>"+count+"</strong></td></tr>");
         });
-        tstats.append('<tr class="total_paid"><td>Inscripciones pagadas: <strong>'+paid+"</strong></td></tr>");
+        //tstats.append('<tr class="total_paid"><td>Inscripciones pagadas: <strong>'+paid+"</strong></td></tr>");
         $.each(clubs, function(club, count) {
             tclubs.append('<tr class="brand_total '+club+'"><td>'+club+": <strong>"+count+"</strong></td></tr>");
         });
         //tclubs.show();
-        //tstats.show();
+        tstats.show();
 
         {% include photo_sticker.js %}
 
