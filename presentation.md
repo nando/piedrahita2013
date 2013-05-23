@@ -12,13 +12,13 @@ Welcome to the official website of the **Spanish National Championship and Inter
 
 **Event:** Spanish National Championship and International Hang Gliding Open: Category 2 FAI Open to flexwing, rigid and sports classes.
 
-**Date:** July 18-27, 2013
+**Date:** July 19-27, 2013
 
 **Location:** Piedrahita, Ávila, España
 
 **GPS Coordinates:** 40°27′46″ North, 5°19′40″ West
 
-**Web page**: [piedrahita2013.com](piedrahita2013.com/prestentation.html)
+**Web page**: [piedrahita2013.com](/presentation.html)
 
 **Programme:**
 
