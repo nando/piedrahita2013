@@ -8,7 +8,8 @@
   <table class="pilots">
     <thead>
       <tr>
-        <th width="46%">Nombre y apellidos</th>
+        <th width="41%">Nombre y apellidos</th>
+        <th width="5%">Nat.</th>
         <th class="glider_class" width="12%">Clase</th>
         <th width="38%">Marca y modelo</th>
         <th class="paid" width="4%">€</th>
@@ -71,6 +72,7 @@
           tbody.append('<tr class="class_'+pilots[i].glider_class+'">'+
             '<td><span class="pilot_id">'+pilots[i].fsdb_id+'</span>'+
               pilots[i].name+" "+pilots[i].surname+'</td>'+
+            '<td class="nat '+pilots[i].nat+'"><span>'+pilots[i].nat+'</span></td>'+
             '<td class="glider_class"><span>&nbsp;</span></td>'+
             '<td class="glider">'+pilots[i].brand+' '+pilots[i].model+"</td>"+
             '<td class="paid_'+pilots[i].paid+'"><span>&nbsp;</span></td></tr>');
@@ -83,11 +85,11 @@
         $.each(brands, function(brand, count) {
             tstats.append('<tr class="brand_total '+brand+'"><td><span>&nbsp;</span>'+brand+": <strong>"+count+"</strong></td></tr>");
         });
-        //tstats.append('<tr class="total_paid"><td>Inscripciones pagadas: <strong>'+paid+"</strong></td></tr>");
+        tstats.append('<tr class="total_paid"><td>Inscripciones pagadas: <strong>'+paid+"</strong></td></tr>");
         $.each(clubs, function(club, count) {
             tclubs.append('<tr class="brand_total '+club+'"><td>'+club+": <strong>"+count+"</strong></td></tr>");
         });
-        //tclubs.show();
+        tclubs.show();
         tstats.show();
 
         {% include photo_sticker.js %}
