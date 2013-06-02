@@ -59,6 +59,9 @@
             clubs = {},
             sport = 0,
             paid = 0;
+
+        {% include countries_alpha3_hash.js %}
+
         tbody.html('');
         for(var i=0;i<pilots.length;i++){
           if(pilots[i].glider_class == 0) sport++;
@@ -72,7 +75,7 @@
           tbody.append('<tr class="class_'+pilots[i].glider_class+'">'+
             '<td><span class="pilot_id">'+pilots[i].fsdb_id+'</span>'+
               pilots[i].name+" "+pilots[i].surname+'</td>'+
-            '<td class="nat '+pilots[i].nat+'"><span>'+pilots[i].nat+'</span></td>'+
+            '<td class="nat '+pilots[i].nat+'"><span title="'+countries[pilots[i].nat]+'">'+pilots[i].nat+'</span></td>'+
             '<td class="glider_class"><span>&nbsp;</span></td>'+
             '<td class="glider">'+pilots[i].brand+' '+pilots[i].model+"</td>"+
             '<td class="paid_'+pilots[i].paid+'"><span>&nbsp;</span></td></tr>');
@@ -89,7 +92,7 @@
         $.each(clubs, function(club, count) {
             tclubs.append('<tr class="brand_total '+club+'"><td>'+club+": <strong>"+count+"</strong></td></tr>");
         });
-        //tclubs.show();
+        tclubs.show();
         tstats.show();
 
         {% include photo_sticker.js %}
