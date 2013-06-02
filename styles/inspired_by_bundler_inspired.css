@@ -10,7 +10,7 @@ body{
   margin-top:52px;
   max-width:835px;
 }
-th.glider_class, th.paid {
+th.glider_class, th.paid, th.nat {
   padding-left: 0;
   text-align: center;
 }
@@ -400,6 +400,24 @@ table.pilots td {
 }
 table.pilots td.glider_class {
   background:#6771FF;
+}
+th.glider_class, th.paid {
+  padding-left: 0;
+  text-align: center;
+}
+td.nat span {
+  background-image: url("../images/flags.png");
+  display: block;
+  width: 32px;
+  height: 25px;
+}
+td.nat.ESP span {
+  background-position: 0px -1px;
+  text-indent: -4000px;
+}
+td.nat.GBR span {
+  background-position: 0px -29px;
+  text-indent: -4000px;
 }
 table tr.spinner td {
   text-align: center;

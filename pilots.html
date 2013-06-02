@@ -8,7 +8,8 @@
   <table class="pilots">
     <thead>
       <tr>
-        <th width="46%">Pilot name</th>
+        <th width="41%">Pilot name</th>
+        <th class="nat" width="5%">Nat.</th>
         <th class="glider_class" width="12%">Class</th>
         <th width="38%">Hang glider</th>
         <th class="paid" width="4%">€</th>
@@ -16,7 +17,7 @@
     </thead>
     <tbody>
       <tr class="spinner">
-        <td colspan="4"><img alt="cargando pilotos..." src="images/ajax-loader.gif"/></td>
+        <td colspan="5"><img alt="loading pilots..." src="images/ajax-loader.gif"/></td>
       </tr>
     </tbody>
   </table>
@@ -71,6 +72,7 @@
           tbody.append('<tr class="class_'+pilots[i].glider_class+'">'+
             '<td><span class="pilot_id">'+pilots[i].fsdb_id+'</span>'+
               pilots[i].name+" "+pilots[i].surname+'</td>'+
+            '<td class="nat '+pilots[i].nat+'"><span>'+pilots[i].nat+'</span></td>'+
             '<td class="glider_class"><span>&nbsp;</span></td>'+
             '<td class="glider">'+pilots[i].brand+' '+pilots[i].model+"</td>"+
             '<td class="paid_'+pilots[i].paid+'"><span>&nbsp;</span></td></tr>');
