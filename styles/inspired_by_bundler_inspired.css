@@ -406,6 +406,7 @@ th.glider_class, th.paid {
   text-align: center;
 }
 td.nat span {
+  background-position: 1000px 1000px;
   background-image: url("../images/flags.png");
   display: block;
   width: 32px;
@@ -417,6 +418,26 @@ td.nat.ESP span {
 }
 td.nat.GBR span {
   background-position: 0px -29px;
+  text-indent: -4000px;
+}
+td.nat.RUS span {
+  background-position: 0px -58px;
+  text-indent: -4000px;
+}
+td.nat.DEU span {
+  background-position: 0px -87px;
+  text-indent: -4000px;
+}
+td.nat.POR span {
+  background-position: 0px -116px;
+  text-indent: -4000px;
+}
+td.nat.UKR span {
+  background-position: 0px -146px;
+  text-indent: -4000px;
+}
+td.nat.CHE span {
+  background-position: 0px -176px;
   text-indent: -4000px;
 }
 table tr.spinner td {
