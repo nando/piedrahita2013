@@ -444,6 +444,10 @@ td.nat.CHE span {
   background-position: 0px -204px;
   text-indent: -4000px;
 }
+td.nat.AUT span {
+  background-position: 0px -234px;
+  text-indent: -4000px;
+}
 table tr.spinner td {
   text-align: center;
   padding: 30px;

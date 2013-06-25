@@ -30,6 +30,14 @@
     </tbody>
   </table>
 
+  <table id="regions_stats" class="pilot_stats">
+    <tbody>
+      <tr>
+        <td class="total">CCAA/Países</strong></td>
+      </tr>
+    </tbody>
+  </table>
+
   <table id="clubs_stats" class="pilot_stats">
     <tbody>
       <tr>
@@ -55,6 +63,9 @@
             tbody = $('tbody', table),
             tstats = $('table#brands_stats tbody'),
             tclubs = $('table#clubs_stats tbody'),
+            tregions = $('table#regions_stats tbody'),
+            regions = {},
+            region = '',
             brands = {},
             clubs = {},
             sport = 0,
@@ -71,6 +82,12 @@
 
           ( brands[pilots[i].brand]++ || ( brands[pilots[i].brand] = 1) );
 
+          if(countries[pilots[i].region] === undefined)
+            region = pilots[i].region;
+          else
+            region = countries[pilots[i].region];
+
+          ( regions[region]++ || ( regions[region] = 1) );
           
           tbody.append('<tr class="class_'+pilots[i].glider_class+'">'+
             '<td><span class="pilot_id">'+pilots[i].fsdb_id+'</span>'+
@@ -92,7 +109,11 @@
         $.each(clubs, function(club, count) {
             tclubs.append('<tr class="brand_total '+club+'"><td>'+club+": <strong>"+count+"</strong></td></tr>");
         });
+        $.each(regions, function(region, count) {
+            tregions.append('<tr class="brand_total '+region+'"><td>'+region+": <strong>"+count+"</strong></td></tr>");
+        });
         tclubs.show();
+        tregions.show();
         tstats.show();
 
         {% include photo_sticker.js %}
