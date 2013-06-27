@@ -38,7 +38,7 @@ Places are limited to {{site.pilots_limit}} pilots.
 
 **Fee:**
 
-The registration fee is **{{site.nice_price}}&euro;** for pilots registered and paid **prior to {{site.nice_limit_en}}** and for pilots who register **after this date the price is {{site.last_price}}&euro;**.
+The registration fee is **{{site.nice_price}}&euro;**.
 
 Registration includes:
 

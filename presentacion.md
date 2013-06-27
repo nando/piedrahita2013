@@ -38,7 +38,7 @@ Las plazas estarán limitadas a {{site.pilots_limit}} pilotos.
 
 **Precio:**
 
-El precio de la inscripción será de **{{site.nice_price}}€** por participante siempre que se haga la inscripción **antes del {{site.nice_limit_es}}**, después el coste será de **{{site.last_price}}€**.
+El precio de la inscripción será de **{{site.nice_price}}€** por participante.
 
 La inscripción incluye:
 
