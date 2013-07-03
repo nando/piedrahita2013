@@ -214,7 +214,7 @@ var countries = {
   SJM:"Svalbard and Jan Mayen",
   SWZ:"Swaziland",
   SWE:"Sweden",
-  CHE:"Switzerland",
+  SUI:"Switzerland",
   SYR:"Syrian Arab Republic",
   TWN:"Taiwan, Province of China",
   TJK:"Tajikistan",
