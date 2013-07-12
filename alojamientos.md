@@ -14,6 +14,6 @@ Las siguientes personas nos han informado que tienen alojamiento para pilotos du
 * **Verónica** (687 280 312): dos casas con capacidad para cuatro personas cada una (una tipo "loft" más económica).
 * **Isabel** (666 263 802): casa rural [La Trocha de Hoyorredondo](http://www.latrochadehoyorredondo.com), con precios especiales para voladores.
 
-Podéis encontrar más información sobre alojamientos en [la página de La Corneja de Gredos](http://www.cornejadegredos.es/pages/alojamientos.html).
+Podéis encontrar más información sobre alojamientos en [la página de La Corneja de Gredos](http://www.cornejadegredos.es/pages/alojamientos.html). El teléfono del **Albergue de Piedrahita** es el 920 360 212.
   
 <div class="clearer">&nbsp;</div>
