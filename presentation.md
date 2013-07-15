@@ -23,10 +23,10 @@ Welcome to the official website of the **Spanish National Championship and Inter
 **Programme:**
 
 * **April 1st**: [On-line sign up opening](signup.html)
-* **June 15th**: Last day for reduced registration fee
 * **From July's first to 18th**: Free training days
-* **Thursday 18th from 17:30 to 21:30**: Registration at the headquarters
-* **Thursday 18th at 22:00**: First pilot's briefing at the headquarters
+* **Thursday 18th from 17:30 to 21:30**: Registration at the headquarters (ground floor of the town hall, in town square)
+* **Thursday 18th at 21:30**: First pilot's briefing at the headquarters
+* **Thursday 18th at 22:00**: Welcome barbecue, courtesy of Restaurante El Arco
 * **From 19th to 27th**: Competition days
 * **Saturday 27th 21:00h**: Closing ceremony
 

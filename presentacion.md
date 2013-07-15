@@ -23,10 +23,10 @@ Bienvenidos a la web oficial del **Campeonato de España y Open Internacional de
 **Programa:**
 
 * **1 de abril**: [Apertura de inscripciones on-line](inscripcion.html)
-* **{{site.nice_limit_es}}**: Último día para inscripciones con precio reducido.
 * **Del 1 al 18 de julio**: Entrenamientos libres
-* **Jueves 18 de julio de 17.30h a 21.30h**: Formalización de inscripciones en la sede
-* **Jueves 18 de julio a las 22.00h**: Primer briefing de pilotos en la sede
+* **Jueves 18 de julio de 17.30h a 21.30h**: Formalización de inscripciones en la sede (local en el bajo del Ayuntamiento, en la plaza)
+* **Jueves 18 de julio a las 21.30h**: Briefing obligatorio para todos los pilotos en la sede
+* **Jueves 18 de julio a las 22.00h**: Barbacoa recepción a los pilotos, gentileza del Restaurante El Arco
 * **Del 19 al 27**: Mangas de competición
 * **Sábado 27 a las 21.00h**: Ceremonia de clausura
 
@@ -50,7 +50,7 @@ La inscripción incluye:
 
 **Pago anticipado:**
 
-Para relizar la inscripción hacer la transferencia indicando vuestros datos al siguiente número de cuenta:
+Para realizar la inscripción hacer la transferencia indicando vuestros datos al siguiente número de cuenta:
 
 {% include account.html %} 
 
