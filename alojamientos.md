@@ -17,6 +17,7 @@ Así mismo las siguientes personas nos han informado que tienen alojamiento para
 * **Jorge** (695 138 572): una casa con dos dormitorios con cama doble y baño (se alquilan juntos o por separado).
 * **Verónica** (687 280 312): dos casas con capacidad para cuatro personas cada una (una tipo "loft" más económica).
 * **Isabel** (666 263 802): casa rural [La Trocha de Hoyorredondo](http://www.latrochadehoyorredondo.com), con precios especiales para voladores.
+* **Paloma** (619 139 873): casa rural [El Gorgocil](http://www.elgorgocil.es), en El Puente del Congosto, a 17km de Piedrahita.
 
 Podéis encontrar más información sobre alojamientos en [la página de La Corneja de Gredos](http://www.cornejadegredos.es/pages/alojamientos.html).
   
