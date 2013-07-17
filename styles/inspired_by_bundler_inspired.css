@@ -500,6 +500,9 @@ table.pilot_stats tbody tr.brand_total.MOYES td span {
 table.pilot_stats tbody tr.brand_total.SYNAIRGIE td span {
   background-position: -4px -321px;
 }
+table.pilot_stats tbody tr.brand_total.ELLIPSE td span {
+  background-position: -5px 31px;
+}
 table.pilot_stats tbody td{
   background:url("../images/section_bg.png");
   background: rgba(255,255,255, .5);
