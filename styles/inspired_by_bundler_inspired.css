@@ -489,7 +489,7 @@ table.pilot_stats tbody tr.brand_total.AIRBORNE td span {
   background-position: -5px -161px;
 }
 table.pilot_stats tbody tr.brand_total.AIRWAVE td span {
-  background-position: -5px 51px;
+  background-position: -5px -347px;
 }
 table.pilot_stats tbody tr.brand_total.AEROS td span {
   background-position: -5px -32px;
@@ -501,7 +501,7 @@ table.pilot_stats tbody tr.brand_total.SYNAIRGIE td span {
   background-position: -4px -321px;
 }
 table.pilot_stats tbody tr.brand_total.ELLIPSE td span {
-  background-position: -5px 31px;
+  background-position: -2px -374px;
 }
 table.pilot_stats tbody td{
   background:url("../images/section_bg.png");
