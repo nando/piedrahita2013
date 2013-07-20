@@ -44,7 +44,6 @@ La inscripción incluye:
 
 * Camiseta del campeonato
 * Mapas
-* Entrada para la piscina municipal
 * Sorteo de Material
 * Cena de clausura y fiesta de cierre de campeonato
 

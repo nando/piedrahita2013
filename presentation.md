@@ -44,7 +44,6 @@ Registration includes:
 
 * Event T-shirt
 * Maps
-* Tickets for the municipal swimming pool
 * Prize draw entry
 * Closing dinner and party
 
