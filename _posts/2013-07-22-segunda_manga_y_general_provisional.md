@@ -16,6 +16,7 @@ Estos son los resultados provisionales de la segunda manga junto con las clasifi
         <li><a href="clasificaciones/General-Clasesport.html">General Sport</a></li>
 </ul>
 
-Los [resultados definitivos de la primera manga](clasificacion.html) pueden verse en [la sección de clasificaciones](clasificacion.html).
+Los [resultados definitivos de la primera manga](clasificacion.html) pueden verse en [la sección de clasificaciones](clasificacion.html), y los despegues de ese día los podéis ver en este [vídeo de Pablo Vicens](http://youtu.be/si3hperpzoY).
 
 Hoy martes continúa la previsión de vientos de sur lo que nos obliga a volver a Pedro Bernardo para disputar la tercera manga del campeonato.
+
