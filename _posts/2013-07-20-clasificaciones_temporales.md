@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Clasificaciones temporales
+title: Clasificaciones temporales tras la 1ª Manga
 section: noticias
 ---
 
