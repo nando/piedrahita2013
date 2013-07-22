@@ -11,9 +11,9 @@ Estos son los resultados provisionales de la segunda manga junto con las clasifi
         <li><a href="clasificaciones/Manga2clasesport.html">2ª Manga Sport</a></li>
 </ul>
 <ul>
-        <li><a href="clasificaciones/General-clase1.html">General Clase 1</a></li>
-        <li><a href="clasificaciones/General-Clase5.html">General Clase 5</a></li>
-        <li><a href="clasificaciones/General-Clasesport.html">General Sport</a></li>
+        <li><a href="clasificaciones/General-clase1_dia2.html">General Clase 1</a></li>
+        <li><a href="clasificaciones/General-Clase5_dia2.html">General Clase 5</a></li>
+        <li><a href="clasificaciones/General-Clasesport_dia2.html">General Sport</a></li>
 </ul>
 
 Los [resultados definitivos de la primera manga](clasificacion.html) pueden verse en [la sección de clasificaciones](clasificacion.html), y los despegues de ese día los podéis ver en este [vídeo de Pablo Vicens](http://youtu.be/si3hperpzoY).
