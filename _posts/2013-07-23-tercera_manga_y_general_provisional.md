@@ -12,7 +12,7 @@ Estos son los resultados provisionales:
 <ul>
         <li><a href="clasificaciones/Manga3clase1.html">3ª Manga Clase 1</a></li>
         <li><a href="clasificaciones/Manga3-Clase5.html">3ª Manga Clase 5</a></li>
-        <li><a href="clasificaciones/Manga3clasesport.html">3ª Manga Sport</a></li>
+        <li><a href="clasificaciones/Manga3claseSport.html">3ª Manga Sport</a></li>
 </ul>
 <ul>
         <li><a href="clasificaciones/General-clase1_dia3.html">General Clase 1</a></li>
