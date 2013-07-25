@@ -10,6 +10,12 @@ body{
   margin-top:52px;
   max-width:835px;
 }
+img.logo {
+  position:fixed;
+  left:30px;
+  top:56px;
+  padding-bottom: 20px;
+}
 th.glider_class, th.paid, th.nat {
   padding-left: 0;
   text-align: center;
@@ -27,7 +33,7 @@ tr.class_5 td.glider_class span {
   background-position: 2px -101px;
 }
 table.results {
-  font-size:14px;
+  font-size:12px;
 }
 a{
   color:#14173a;
@@ -675,7 +681,6 @@ cols    1     2      3      4      5      6      7      8
 px      68    160    252    344    436    528    620    712    */
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  
   body {
     background:#A7C7EF;
   }
@@ -707,6 +712,7 @@ px      68    160    252    344    436    528    620    712    */
 @media only screen and (max-width: 767px) {
   
     body {
+      margin-top:10px;
       margin-left:0;
       margin-right:0;
       background:#A7C7EF;
@@ -753,11 +759,15 @@ px      68    160    252    344    436    528    620    712    */
     
     img.logo {
       position:absolute;
-      left:0;
-      top:-2px;
+      top:10px;
+      left:10px;
       width:60px;
     }
   
+    h2.welcome img {
+      display: none;
+
+    }
     div.article {
       margin:15px 10px;
       width:auto;
