@@ -6,7 +6,7 @@ section: noticias
 
 <img class="right" src="images/manga_4.jpg" alt="Mapa de la cuarta manga" title="Mapa de la cuarta manga" />
 
-Por fin hemos podido estrenar la sede del campeonato y hemos celebrado la primera manga Piedrahita, una prueba de 154km despegando desde Peña Negra con primera baliza y start (de 80km) en Muñopedro y gol en Arcones.
+Por fin hemos podido estrenar la sede del campeonato y hemos celebrado la primera manga en Piedrahita, una prueba de 154km despegando desde Peña Negra con primera baliza y start (de 80km) en Muñopedro y gol en Arcones.
 
 En torno a veinte pilotos en gol, entre ellos Blay Jr. y Dani Martín Mota, que el despegue fallido no le ha impedido terminar la prueba. Los resultados de la manga y la clasificación las publicaremos en cuanto tengamos todos los tracks.
 

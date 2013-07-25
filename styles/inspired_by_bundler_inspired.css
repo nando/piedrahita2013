@@ -26,6 +26,9 @@ tr.class_0 td.glider_class span {
 tr.class_5 td.glider_class span {
   background-position: 2px -101px;
 }
+table.results {
+  font-size:14px;
+}
 a{
   color:#14173a;
   font-weight:700;
