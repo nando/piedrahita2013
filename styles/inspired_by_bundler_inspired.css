@@ -589,6 +589,10 @@ article img.right {
   margin: 10px 0px 10px 20px;
   float: right;
 }
+article img.bordered {
+  border:1px black solid;
+  margin: 30px 0px 10px 20px;
+}
 div.clearer {
   clear: both;
   line-height: 0;

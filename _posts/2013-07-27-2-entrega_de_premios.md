@@ -48,25 +48,30 @@ En la Categoría de Clase 1 (flexibles) así como en la Categoría Open:
 <hr/>
 
 <div class="centered">
-<img src="images/campeona_femenina.jpg" alt="Foto de Alexandra Serebrennikova (Sasha)" title="Alexandra Serebrennikova (Sasha)" class="left"/>
-<strong>Alexandra Serebrennikova (Sasha) </strong> (Campeona Femenina).
+<img src="images/campeona_femenina.jpg" alt="Foto de Alexandra Serebrennikova (Sasha)" title="Alexandra Serebrennikova (Sasha)" class="bordered" />
+<br/>
+<strong>Alexandra Serebrennikova (Sasha)</strong> (Campeona Femenina).
 </div>
-
 <hr/>
+
+
 <div class="centered">
-<img src="images/campeona_comunidad_de_madrid.jpg" alt="Foto de la Comunidad Autónoma ganadora (recoge el premio Manolo Gómez de Pablos)" title="Comunidad Autónoma ganadora (recoge el premio Manolo Gómez de Pablos)" class="left"/>
+<img src="images/campeona_comunidad_de_madrid.jpg" alt="Foto de la Comunidad Autónoma ganadora (recoge el premio Manolo Gómez de Pablos)" title="Comunidad Autónoma ganadora (recoge el premio Manolo Gómez de Pablos)" class="bordered"/>
+<br/>
 <strong>Comunidad Autónoma ganadora: Comunidad de Madrid</strong> (recoge el premio Manolo Gómez de Pablos).
 </div>
 <hr/>
 
 <div class="centered">
-<img src="images/campeon_cvl_madrid.jpg" alt="Foto de Club Campeón: CVL Madrid (recoge el premio Blay Olmos Ramos)" title="Club Campeón: CVL Madrid (recoge el premio Blay Olmos Ramos)" class="left"/>
+<img src="images/campeon_cvl_madrid.jpg" alt="Foto de Club Campeón: CVL Madrid (recoge el premio Blay Olmos Ramos)" title="Club Campeón: CVL Madrid (recoge el premio Blay Olmos Ramos)" class="bordered"/>
+<br/>
 <strong>Club Campeón: CVL Madrid</strong> (recoge el premio Blay Olmos Ramos).
 </div>
 <hr/>
 
 <div class="centered">
-<img src="images/campeon_sport.jpg" alt="Foto de Carlos Sánchez (segundo clasificado Clase Sport)" title="Carlos Sánchez (segundo clasificado Clase Sport)" class="left"/>
+<img src="images/campeon_sport.jpg" alt="Foto de Carlos Sánchez (segundo clasificado Clase Sport)" title="Carlos Sánchez (segundo clasificado Clase Sport)" class="bordered"/>
+<br/>
 <strong>Carlos Sánchez</strong> (segundo clasificado Clase Sport).
 </div>
 <hr/>
@@ -79,6 +84,7 @@ En la Categoría de Clase 1 (flexibles) así como en la Categoría Open:
 
 <div class="centered">
 <img src="images/campeones_clase_1.jpg" alt="Foto de Los Campeones de la Clase 1 (flexibles) y del Open Internacional (de izda. a dcha. Blay Jr. Olmos, Dani Martín y Ako)" title="Campeones de la Clase 1 (flexibles) y del Open Internacional (de izda. a dcha. Blay Jr. Olmos, Dani Martín y Ako)" class="left"/>
+<br/>
 <strong>Los Campeones de la Clase 1 (flexibles) y del Open Internacional</strong><br/>(de izda. a dcha. Blay Jr. Olmos Quesada, Daniel Martín Mota y Jose Antonio Abollado Amo 'Ako')
 <hr/>
 <strong>Fotos: Luis Cotilla - luiscotilla.com - fotografia@luiscotilla.com</strong>
