@@ -461,6 +461,10 @@ td.nat.FRA span {
   background-position: 0px -265px;
   text-indent: -4000px;
 }
+td.nat.BRA span {
+  background-position: 0px -295px;
+  text-indent: -4000px;
+}
 table tr.spinner td {
   text-align: center;
   padding: 30px;
