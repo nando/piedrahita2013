@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Prueba cancelada y balizas de Pedro Bernardo
 section: noticias
 ---

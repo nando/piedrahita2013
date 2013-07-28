@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: ¡Bienvenidos a Piedrahita 2013!
 section: noticias
 ---

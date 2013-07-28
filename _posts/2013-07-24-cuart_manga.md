@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Cuarta manga
 section: noticias
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Briefing en Piedrahita a las once
 section: noticias
 ---

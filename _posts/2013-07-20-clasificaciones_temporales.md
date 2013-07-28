@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Clasificaciones temporales tras la 1ª Manga
 section: noticias
 ---

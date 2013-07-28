@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Hoy manga cancelada y mañana Piedrahita
 section: noticias
 ---

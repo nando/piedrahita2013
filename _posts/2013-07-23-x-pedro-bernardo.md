@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Sures y Pedro Bernardo
 section: noticias
 ---

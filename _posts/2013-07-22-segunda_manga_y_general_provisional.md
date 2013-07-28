@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Segunda manga y general provisional
 section: noticias
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Prueba cancelada en el séptimo día
 section: noticias
 ---

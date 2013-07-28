@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Manga cancelada y adelanto de la entrega de premios
 section: noticias
 ---

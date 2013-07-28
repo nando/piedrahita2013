@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Cinco pilotos en gol y mañana más Pedro Bernardo
 section: noticias
 ---

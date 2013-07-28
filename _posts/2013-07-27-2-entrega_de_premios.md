@@ -1,10 +1,10 @@
 ---
-layout: default
-title: Entrega de premios en la plaza de la Villa de Piedrahita
+layout: post
+title: Entrega de premios en la plaza de Piedrahita
 section: noticias
 ---
 
-Acompañados de una representacion del ayuntamiento de la villa de Piedrahita se ha procedido a entregar los premios en las distintas categorias del Campeonato de España & Open Internacional de Ala Delta Piedrahita 2013.
+Acompañados de una representacion del Ayuntamiento de Piedrahita se ha procedido a entregar los premios en las distintas categorias del Campeonato de España & Open Internacional de Ala Delta Piedrahita 2013.
 
 En la Categoría Femenina:
 

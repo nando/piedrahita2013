@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Día cancelado y mañana briefing a las 11h
 section: noticias
 ---
