@@ -20,7 +20,7 @@ En la Categoría de Clubes:
 
 1. CVL Madrid
 2. CVL Cádiz
-3. Albatross (Rusia)
+3. CVL Ortzadar
 
 En la Categoría Sport:
 
