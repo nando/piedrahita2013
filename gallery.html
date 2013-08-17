@@ -1,0 +1,301 @@
+---
+  layout: default
+  title: Galería de fotos (por Luis Cotilla - luiscotilla.com)
+  section: galeria
+---
+
+<link rel="stylesheet" href="styles/flexslider.css" type="text/css">
+<script src="javascript/jquery.flexslider-min.js"></script>
+    
+<script>
+$(window).load(function() {
+  function check_and_load_if_missed(slider, pos) {
+    if((slider.slides[pos] != undefined) &&
+       ($(slider.slides[pos].childNodes[0]).attr("src") == ""))
+       {
+           $(slider.slides[pos].childNodes[0]).attr("src",
+           'images/gallery/' + $(slider.slides[pos].childNodes[0]).attr("rel") + '.JPG');
+        
+         }
+  }
+  $('.flexslider').flexslider({
+    animation: "fade",
+    start: function(slider){
+      $('.spinner', slider).hide();
+    },
+    before: function(slider){
+      check_and_load_if_missed(slider, slider.animatingTo);
+      check_and_load_if_missed(slider, slider.animatingTo+1);
+      check_and_load_if_missed(slider, slider.animatingTo-1);
+    }
+  });
+});
+</script>
+
+<div class="flexslider">
+  <div class="center_wrapper spinner">
+    <img class="spinner" alt="cargando fotos..." src="images/ajax-loader.gif"/>
+  </div>
+  <ul class="slides">
+    <li><img src="images/gallery/001.JPG" /></li>
+    <li><img src="images/gallery/002.JPG" /></li>
+    <li><img src="" rel="003" /></li>
+    <li><img src="" rel="004" /></li>
+    <li><img src="" rel="005" /></li>
+    <li><img src="" rel="006" /></li>
+    <li><img src="" rel="007" /></li>
+    <li><img src="" rel="008" /></li>
+    <li><img src="" rel="009" /></li>
+    <li><img src="" rel="010" /></li>
+    <li><img src="" rel="011" /></li>
+    <li><img src="" rel="012" /></li>
+    <li><img src="" rel="013" /></li>
+    <li><img src="" rel="015" /></li>
+    <li><img src="" rel="016" /></li>
+    <li><img src="" rel="017" /></li>
+    <li><img src="" rel="018" /></li>
+    <li><img src="" rel="019" /></li>
+    <li><img src="" rel="020" /></li>
+    <li><img src="" rel="021" /></li>
+    <li><img src="" rel="022" /></li>
+    <li><img src="" rel="023" /></li>
+    <li><img src="" rel="024" /></li>
+    <li><img src="" rel="025" /></li>
+    <li><img src="" rel="026" /></li>
+    <li><img src="" rel="027" /></li>
+    <li><img src="" rel="028" /></li>
+    <li><img src="" rel="029" /></li>
+    <li><img src="" rel="030" /></li>
+    <li><img src="" rel="031" /></li>
+    <li><img src="" rel="032" /></li>
+    <li><img src="" rel="033" /></li>
+    <li><img src="" rel="034" /></li>
+    <li><img src="" rel="035" /></li>
+    <li><img src="" rel="036" /></li>
+    <li><img src="" rel="037" /></li>
+    <li><img src="" rel="038" /></li>
+    <li><img src="" rel="039" /></li>
+    <li><img src="" rel="040" /></li>
+    <li><img src="" rel="041" /></li>
+    <li><img src="" rel="042" /></li>
+    <li><img src="" rel="043" /></li>
+    <li><img src="" rel="044" /></li>
+    <li><img src="" rel="045" /></li>
+    <li><img src="" rel="046" /></li>
+    <li><img src="" rel="047" /></li>
+    <li><img src="" rel="048" /></li>
+    <li><img src="" rel="049" /></li>
+    <li><img src="" rel="050" /></li>
+    <li><img src="" rel="051" /></li>
+    <li><img src="" rel="052" /></li>
+    <li><img src="" rel="053" /></li>
+    <li><img src="" rel="054" /></li>
+    <li><img src="" rel="060" /></li>
+    <li><img src="" rel="055" /></li>
+    <li><img src="" rel="056" /></li>
+    <li><img src="" rel="057" /></li>
+    <li><img src="" rel="058" /></li>
+    <li><img src="" rel="059" /></li>
+    <li><img src="" rel="061" /></li>
+    <li><img src="" rel="062" /></li>
+    <li><img src="" rel="063" /></li>
+    <li><img src="" rel="064" /></li>
+    <li><img src="" rel="065" /></li>
+    <li><img src="" rel="066" /></li>
+    <li><img src="" rel="067" /></li>
+    <li><img src="" rel="068" /></li>
+    <li><img src="" rel="069" /></li>
+    <li><img src="" rel="070" /></li>
+    <li><img src="" rel="071" /></li>
+    <li><img src="" rel="072" /></li>
+    <li><img src="" rel="073" /></li>
+    <li><img src="" rel="074" /></li>
+    <li><img src="" rel="075" /></li>
+    <li><img src="" rel="076" /></li>
+    <li><img src="" rel="077" /></li>
+    <li><img src="" rel="078" /></li>
+    <li><img src="" rel="079" /></li>
+    <li><img src="" rel="080" /></li>
+    <li><img src="" rel="081" /></li>
+    <li><img src="" rel="082" /></li>
+    <li><img src="" rel="083" /></li>
+    <li><img src="" rel="084" /></li>
+    <li><img src="" rel="085" /></li>
+    <li><img src="" rel="086" /></li>
+    <li><img src="" rel="087" /></li>
+    <li><img src="" rel="088" /></li>
+    <li><img src="" rel="089" /></li>
+    <li><img src="" rel="090" /></li>
+    <li><img src="" rel="091" /></li>
+    <li><img src="" rel="092" /></li>
+    <li><img src="" rel="093" /></li>
+    <li><img src="" rel="094" /></li>
+    <li><img src="" rel="095" /></li>
+    <li><img src="" rel="096" /></li>
+    <li><img src="" rel="097" /></li>
+    <li><img src="" rel="098" /></li>
+    <li><img src="" rel="099" /></li>
+    <li><img src="" rel="100" /></li>
+    <li><img src="" rel="101" /></li>
+    <li><img src="" rel="102" /></li>
+    <li><img src="" rel="103" /></li>
+    <li><img src="" rel="104" /></li>
+    <li><img src="" rel="105" /></li>
+    <li><img src="" rel="106" /></li>
+    <li><img src="" rel="107" /></li>
+    <li><img src="" rel="108" /></li>
+    <li><img src="" rel="109" /></li>
+    <li><img src="" rel="110" /></li>
+    <li><img src="" rel="111" /></li>
+    <li><img src="" rel="112" /></li>
+    <li><img src="" rel="113" /></li>
+    <li><img src="" rel="114" /></li>
+    <li><img src="" rel="115" /></li>
+    <li><img src="" rel="116" /></li>
+    <li><img src="" rel="117" /></li>
+    <li><img src="" rel="118" /></li>
+    <li><img src="" rel="119" /></li>
+    <li><img src="" rel="120" /></li>
+    <li><img src="" rel="121" /></li>
+    <li><img src="" rel="122" /></li>
+    <li><img src="" rel="123" /></li>
+    <li><img src="" rel="124" /></li>
+    <li><img src="" rel="125" /></li>
+    <li><img src="" rel="126" /></li>
+    <li><img src="" rel="127" /></li>
+    <li><img src="" rel="128" /></li>
+    <li><img src="" rel="129" /></li>
+    <li><img src="" rel="130" /></li>
+    <li><img src="" rel="131" /></li>
+    <li><img src="" rel="134" /></li>
+    <li><img src="" rel="135" /></li>
+    <li><img src="" rel="136" /></li>
+    <li><img src="" rel="137" /></li>
+    <li><img src="" rel="138" /></li>
+    <li><img src="" rel="139" /></li>
+    <li><img src="" rel="140" /></li>
+    <li><img src="" rel="141" /></li>
+    <li><img src="" rel="142" /></li>
+    <li><img src="" rel="143" /></li>
+    <li><img src="" rel="144" /></li>
+    <li><img src="" rel="145" /></li>
+    <li><img src="" rel="146" /></li>
+    <li><img src="" rel="147" /></li>
+    <li><img src="" rel="148" /></li>
+    <li><img src="" rel="150" /></li>
+    <li><img src="" rel="151" /></li>
+    <li><img src="" rel="152" /></li>
+    <li><img src="" rel="153" /></li>
+    <li><img src="" rel="154" /></li>
+    <li><img src="" rel="155" /></li>
+    <li><img src="" rel="156" /></li>
+    <li><img src="" rel="157" /></li>
+    <li><img src="" rel="158" /></li>
+    <li><img src="" rel="159" /></li>
+    <li><img src="" rel="160" /></li>
+    <li><img src="" rel="161" /></li>
+    <li><img src="" rel="162" /></li>
+    <li><img src="" rel="163" /></li>
+    <li><img src="" rel="164" /></li>
+    <li><img src="" rel="165" /></li>
+    <li><img src="" rel="166" /></li>
+    <li><img src="" rel="167" /></li>
+    <li><img src="" rel="168" /></li>
+    <li><img src="" rel="169" /></li>
+    <li><img src="" rel="170" /></li>
+    <li><img src="" rel="171" /></li>
+    <li><img src="" rel="172" /></li>
+    <li><img src="" rel="173" /></li>
+    <li><img src="" rel="174" /></li>
+    <li><img src="" rel="175" /></li>
+    <li><img src="" rel="176" /></li>
+    <li><img src="" rel="177" /></li>
+    <li><img src="" rel="178" /></li>
+    <li><img src="" rel="179" /></li>
+    <li><img src="" rel="180" /></li>
+    <li><img src="" rel="181" /></li>
+    <li><img src="" rel="182" /></li>
+    <li><img src="" rel="183" /></li>
+    <li><img src="" rel="184" /></li>
+    <li><img src="" rel="185" /></li>
+    <li><img src="" rel="186" /></li>
+    <li><img src="" rel="187" /></li>
+    <li><img src="" rel="188" /></li>
+    <li><img src="" rel="189" /></li>
+    <li><img src="" rel="190" /></li>
+    <li><img src="" rel="191" /></li>
+    <li><img src="" rel="192" /></li>
+    <li><img src="" rel="193" /></li>
+    <li><img src="" rel="194" /></li>
+    <li><img src="" rel="195" /></li>
+    <li><img src="" rel="196" /></li>
+    <li><img src="" rel="197" /></li>
+    <li><img src="" rel="198" /></li>
+    <li><img src="" rel="199" /></li>
+    <li><img src="" rel="200" /></li>
+    <li><img src="" rel="201" /></li>
+    <li><img src="" rel="202" /></li>
+    <li><img src="" rel="203" /></li>
+    <li><img src="" rel="204" /></li>
+    <li><img src="" rel="205" /></li>
+    <li><img src="" rel="206" /></li>
+    <li><img src="" rel="207" /></li>
+    <li><img src="" rel="208" /></li>
+    <li><img src="" rel="209" /></li>
+    <li><img src="" rel="210" /></li>
+    <li><img src="" rel="211" /></li>
+    <li><img src="" rel="212" /></li>
+    <li><img src="" rel="213" /></li>
+    <li><img src="" rel="214" /></li>
+    <li><img src="" rel="215" /></li>
+    <li><img src="" rel="216" /></li>
+    <li><img src="" rel="217" /></li>
+    <li><img src="" rel="218" /></li>
+    <li><img src="" rel="219" /></li>
+    <li><img src="" rel="220" /></li>
+    <li><img src="" rel="221" /></li>
+    <li><img src="" rel="222" /></li>
+    <li><img src="" rel="223" /></li>
+    <li><img src="" rel="224" /></li>
+    <li><img src="" rel="225" /></li>
+    <li><img src="" rel="226" /></li>
+    <li><img src="" rel="227" /></li>
+    <li><img src="" rel="228" /></li>
+    <li><img src="" rel="229" /></li>
+    <li><img src="" rel="230" /></li>
+    <li><img src="" rel="231" /></li>
+    <li><img src="" rel="232" /></li>
+    <li><img src="" rel="233" /></li>
+    <li><img src="" rel="234" /></li>
+    <li><img src="" rel="235" /></li>
+    <li><img src="" rel="236" /></li>
+    <li><img src="" rel="237" /></li>
+    <li><img src="" rel="238" /></li>
+    <li><img src="" rel="239" /></li>
+    <li><img src="" rel="240" /></li>
+    <li><img src="" rel="241" /></li>
+    <li><img src="" rel="242" /></li>
+    <li><img src="" rel="243" /></li>
+    <li><img src="" rel="244" /></li>
+    <li><img src="" rel="245" /></li>
+    <li><img src="" rel="246" /></li>
+    <li><img src="" rel="247" /></li>
+    <li><img src="" rel="248" /></li>
+    <li><img src="" rel="249" /></li>
+    <li><img src="" rel="250" /></li>
+    <li><img src="" rel="251" /></li>
+    <li><img src="" rel="252" /></li>
+    <li><img src="" rel="253" /></li>
+    <li><img src="" rel="254" /></li>
+    <li><img src="" rel="255" /></li>
+    <li><img src="" rel="256" /></li>
+    <li><img src="" rel="257" /></li>
+    <li><img src="" rel="258" /></li>
+    <li><img src="" rel="259" /></li>
+    <li><img src="" rel="260" /></li>
+    <li><img src="" rel="261" /></li>
+    <li><img src="" rel="262" /></li>
+    <li><img src="" rel="263" /></li>
+    <li><img src="" rel="264" /></li>
+  </ul>
+</div>
