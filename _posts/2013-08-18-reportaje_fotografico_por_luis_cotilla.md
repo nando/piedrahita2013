@@ -14,7 +14,7 @@ Ya está disponible  el reportaje fotográfico del Campeonato realizado por Luis
 
 <div class="center_wrapper">
   <div class="poster">
-<a href="/gallery.html"><img src="/images/gallery.JPG" alt="Blay Jr. despegando en Peña Negra" title="Blay Jr. despegando en Peña Negra"/></a>
+<a href="/gallery.html"><img src="/images/gallery.JPG" alt="Despegando hacia el Valle del Corneja" title="Despegando hacia el Valle del Corneja"/></a>
   </div>
 </div>
 
